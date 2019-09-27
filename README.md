@@ -9,8 +9,8 @@ BeautifulSoup4
 #### Linux:
 ```
 python3 nasapotd.py
-´´´
+```
 #### Windows:
-´´´
+```
 nasapotd.py
-´´´´
+```
